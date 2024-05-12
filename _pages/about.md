@@ -6,7 +6,7 @@ subtitle: M.Sc. (Tech.) Research Scientist. AI Enthusiastic.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: cv_kuva_24.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
